@@ -1,0 +1,25 @@
+{
+  "name": "dz-js-mazalov.n",
+  "version": "1.0.0",
+  "description": "js dz c7.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happy1dude/moduleC7_homework_Mazalov.N"
+  },
+  "author": "nikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneelia/learn-js/issues"
+  },
+  "homepage": "https://github.com/happy1dude/moduleC7_homework_Mazalov.N",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.1",
+    "jest": "^26.6.1"
+  }
+}
